@@ -68,7 +68,7 @@ img {
   letter-spacing: 0.5px;
 }
 .header_center {
-  margin-top: 160px;
+  margin-top: 140px;
 }
 .header_center h1 {
   position: relative;
@@ -116,6 +116,7 @@ img {
   background-repeat: no-repeat;
 }
 .h_c_webpage {
+  margin-top: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
