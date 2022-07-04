@@ -946,3 +946,11 @@ main {
   line-height: 33px;
   color: #0f2137;
 }
+
+/* RESPONSIVE */
+@media screen and (max-width: 1280px) {
+  .navbar {
+    gap: 200px;
+    background: #ea3a601c;
+  }
+}
